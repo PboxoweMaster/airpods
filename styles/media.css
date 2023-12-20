@@ -1,0 +1,14 @@
+@media (max-width:1154px) {
+    .header__nav{
+        padding: 15px;
+    }
+    .header__list{
+        justify-content: space-evenly;
+    }
+}
+@media (max-width:810px) {
+    .box-3{
+        padding-bottom: 10px;
+      
+    }
+}
